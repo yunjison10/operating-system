@@ -1,0 +1,4 @@
+There are three operating system functions: 
+1) It provides starting-up/shutdown the computers.
+2) It provides a user interface to human.
+3) It provides program management.
