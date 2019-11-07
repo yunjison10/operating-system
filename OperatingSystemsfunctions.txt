@@ -5,4 +5,6 @@ There are three operating system functions:
 4) It provides memory management.
 5) It provides task coordination.
 6) It provides device configuration and management.
-
+7) It provides network management like establishing an internet connection.
+8) It provides file/disk/system management tools.
+9) It provides security related tools.
